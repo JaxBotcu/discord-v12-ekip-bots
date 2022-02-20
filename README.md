@@ -1,6 +1,6 @@
 # Shadox'la Birlikte Kullandığımız V12 PM2 Ekip Botlarımızı Paylaşma Kararı Aldık. 
 
-100 Star 30 Forkta Paylaşımı Yapılacaktır.
+75 Star 30 Forkta Paylaşımı Yapılacaktır.
 
 Botlarla İlgili Sorunlar İçin : Croesus#1883 & Shadox#1883 Ulaşabilirsiniz <3
 
